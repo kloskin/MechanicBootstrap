@@ -15,6 +15,10 @@
 
 ## Screenshots 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
-![alt text](https://github.com/kloskin/MechanicBootstrap/tree/main/Screens/sc1.png?raw=true)
+![](Screens/sc1.png)
+![](Screens/sc2.png)
+![](Screens/sc3.png)
+![](Screens/sc4.png)
+![](Screens/sc5.png)
+![](Screens/sc6.png)
+![](Screens/sc7.png)
