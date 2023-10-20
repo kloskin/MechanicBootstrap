@@ -12,3 +12,9 @@
 8. **Gallery:** A gallery showcases images of the service center's facilities, the team in action, and before-and-after shots of serviced vehicles.
 9. **Social Media Integration:** Social media icons are prominently displayed, allowing visitors to connect with Kloskin Car's o on various social platforms for updates, offers, and community engagement.
 10. **Responsive Design:** The website's responsive design ensures that users can easily access and navigate the site from their smartphones, tablets, or desktop computers.
+
+## Screenshots 
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+![alt text](https://github.com/kloskin/MechanicBootstrap/tree/main/Screens/sc1.png?raw=true)
