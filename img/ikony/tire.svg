@@ -1,0 +1,17 @@
+<svg width="565" height="564" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_32">
+   <ellipse stroke="#000" stroke-width="40" ry="261.87499" rx="261.87499" id="svg_3" cy="281.51859" cx="282.37498" fill="#fff"/>
+   <ellipse stroke="#000" stroke-width="30" ry="184.85293" rx="184.85293" id="svg_4" cy="282.14133" cx="281.8615" fill="#fff"/>
+   <line stroke="#000" id="svg_25" y2="273.92565" x2="284.94239" y1="102.42321" x1="285.96935" stroke-width="30" fill="none"/>
+   <line stroke="#000" id="svg_26" y2="279.06045" x2="278.78062" y1="188.68791" x1="431.79777" stroke-width="30" fill="none"/>
+   <line stroke="#000" id="svg_27" y2="277.00653" x2="293.15807" y1="174.31046" x1="139.11396" stroke-width="30" fill="none"/>
+   <line stroke="#000" id="svg_28" y2="272.89869" x2="288.02327" y1="365.32515" x1="126.79044" stroke-width="30" fill="none"/>
+   <line stroke="#000" id="svg_29" y2="265.70996" x2="288.02327" y1="465.96731" x1="289.05023" stroke-width="30" fill="none"/>
+   <line stroke="#000" id="svg_30" y2="273.92565" x2="281.86151" y1="363.27123" x1="451.31003" stroke-width="30" fill="none"/>
+   <ellipse stroke="#000" ry="28.24142" rx="28.24142" id="svg_31" cy="274.18239" cx="284.42891" stroke-width="15" fill="#fff"/>
+  </g>
+ </g>
+</svg>

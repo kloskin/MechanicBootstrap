@@ -1,0 +1,22 @@
+<svg width="421" height="454.99999999999994" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <path id="svg_17" stroke-width="20" stroke="#000" fill="#fff"/>
+  <g id="svg_30">
+   <ellipse ry="200" rx="200" id="svg_1" cy="243.79998" cx="209.69997" stroke-width="20" stroke="#000" fill="#fff"/>
+   <ellipse ry="76.5" rx="76.5" id="svg_3" cy="240.89998" cx="204.09997" stroke-width="20" stroke="#000" fill="#000000"/>
+   <ellipse stroke="#000" ry="15" rx="12" id="svg_5" cy="199.6941" cx="204.09997" stroke-width="5" fill="#ffffff"/>
+   <ellipse transform="rotate(90.4809 248.6 240.4)" stroke="#000" ry="15" rx="12" id="svg_6" cy="240.40009" cx="248.59997" stroke-width="5" fill="#ffffff"/>
+   <ellipse stroke="#000" ry="15" rx="12" id="svg_7" cy="282.6941" cx="204.09997" stroke-width="5" fill="#ffffff"/>
+   <ellipse transform="rotate(90 155.6 240.4)" stroke="#000" ry="15" rx="12" id="svg_8" cy="240.39997" cx="155.59997" stroke-width="5" fill="#ffffff"/>
+   <path id="svg_11" d="m288.09997,105.39998" opacity="NaN" stroke-width="20" stroke="#000" fill="#fff"/>
+   <rect id="svg_27" height="95.20004" width="219.20009" y="20.40013" x="187.29996" stroke-width="0" stroke="#000" fill="#ffffff"/>
+   <rect id="svg_28" height="30.40001" width="37.60002" y="106.80017" x="343.30003" stroke-width="0" stroke="#000" fill="#ffffff"/>
+   <path transform="rotate(-9.31761 268.9 122.772)" id="svg_18" d="m191.29997,74.00015l0,0zc0,0 88.80004,-16.80001 155.20007,98.40004" opacity="NaN" stroke-width="20" stroke="#000" fill="#fff"/>
+   <path id="svg_20" d="m404.10005,148.40019" opacity="NaN" stroke-width="20" stroke="#000" fill="#fff"/>
+   <line id="svg_21" y2="106.80017" x2="404.10005" y1="150.80019" x1="347.30003" stroke-width="20" stroke="#000" fill="none"/>
+   <line transform="rotate(-6.37554 182.395 48.2778)" stroke="#000" id="svg_23" y2="10.52735" x2="174.79465" y1="86.0283" x1="189.99466" stroke-width="20" fill="none"/>
+   <path stroke="#000" id="svg_26" d="m173.69992,22.00013c-0.78881,-5.6 183.00431,-52.00002 225.60014,92.80004" opacity="NaN" stroke-width="20" fill="none"/>
+  </g>
+ </g>
+</svg>
